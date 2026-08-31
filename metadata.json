@@ -1,0 +1,6 @@
+{
+  "name": "Khushi Tour & Travels",
+  "description": "Premium 3D animated travel agency app for Khushi Tour & Travels with tour packages, fleet showcase, online booking, and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
